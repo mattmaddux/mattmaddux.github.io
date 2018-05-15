@@ -13,7 +13,7 @@ I'll get into some other specifics of putting this together at another date, but
 
 Below is code adapted from Github user [Carterhouse] found in [this repo]. He wrote it as an extension to Swift's Data type, but for my purposes I found extending String more practical.
 
-In a future post I'll detail more steps in building 
+In a future post I'll detail more steps in building all the parts of the JWT.
 
 {% highlight swift %}
 extension String {
@@ -40,6 +40,7 @@ extension String {
     }
 }
 {% endhighlight %}
+
 
 It's also worth noting that if you are using the [Perfect] toolkit for building server-side Swift apps, they provide an API for creating a JWT in their [Crypto] module, and it should handle the conversion for you. If you're using Perfect already and need to call the Google Directory API, not much reason not to use it.
 
