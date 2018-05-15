@@ -1,6 +1,6 @@
-name: Solar Theme
-url: http://example.org
-description: A stylish blog using the Solarized color palette
+name: Green Swift
+url: https://mattmaddux.github.io
+description: Figuring Swift development out one step at a time.
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
