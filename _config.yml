@@ -1,6 +1,6 @@
 name: Green Swift
 url: https://mattmaddux.github.io
-description: Figuring Swift development out one step at a time.
+description: Step by step Swift development for Linux, the Mac and iOS.
 
 permalink: /:year/:month/:day/:title/
 paginate: 10
